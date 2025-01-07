@@ -1,0 +1,4 @@
+__pycache__/
+
+*.kml
+scripts/test.py
